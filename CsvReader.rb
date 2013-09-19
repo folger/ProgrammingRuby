@@ -33,5 +33,3 @@ if __FILE__ == $0
   end
   puts "Total value = #{reader.total_value_in_stock}"
 end
-
-
